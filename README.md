@@ -41,26 +41,21 @@ The goal of this project is to:
 
 ---
 
-## 📸 Visual Analysis
-
-### Revenue Analysis
-![Revenue](visuals/revenue.png)
-
-### Gender Distribution
-![Gender](visuals/gender.png)
-
-### Age Distribution
-![Age](visuals/age.png)
+##  Visual Analysis
 
 ### Dashboard Overview
 ![Dashboard](visuals/dashboard.png)
 
+### Revenue Analysis
+![Revenue](visuals/Revenue_chart.png)
+
+### Gender Distribution
+![Gender](visuals/Gender_chart.png)
+
+### Age Distribution
+![Age](visuals/Customer_Age_chart.png)
+
+
+
 ---
 
-##  How to Run This Project
-1. Clone this repository:
-```bash
-##  How to Run This Project
-
-
-git clone https://github.com/tanyachitaka05/pinkglow-retail-dashboard.git
