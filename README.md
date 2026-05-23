@@ -62,4 +62,4 @@ The goal of this project is to:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/tanyachitaka05/pinkglow-retail-dashboard.git
+git clone https://github.com/tanyachitaka05/pinkglow-retail-analytics-dashboard.git
