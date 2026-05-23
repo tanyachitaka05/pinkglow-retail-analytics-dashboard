@@ -47,5 +47,5 @@ The goal is to demonstrate data cleaning, exploratory data analysis (EDA), and i
 ##  How to Run This Project
 
 1. Clone the repository:
-```bash
-git clone https://github.com/tanyachita@05/pinkglow-retail-analytics-dashboard.git
+bash
+git clone https://github.com/tanyachita05/pinkglow-retail-analytics-dashboard.git
