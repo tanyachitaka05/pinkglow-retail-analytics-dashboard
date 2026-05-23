@@ -1,51 +1,66 @@
-#  PinkGlow Retail Analytics Dashboard
+#  Retail Sales Analytics Project (PinkGlow Theme)
 
-## Project Overview
-This project is an end-to-end retail sales analytics solution built using Python and Dash. It analyzes customer behavior, product performance, and revenue trends to generate actionable business insights.
-
-The goal is to demonstrate data cleaning, exploratory data analysis (EDA), and interactive dashboard development.
+##  Overview
+This project analyzes retail sales data to understand customer behaviour, product performance, and revenue trends.  
+It uses Python and Jupyter Notebook to clean data, explore patterns, and create visual insights.
 
 ---
 
-##  Tools & Technologies
+##  Objective
+The goal of this project is to:
+- Clean and prepare raw retail data
+- Perform exploratory data analysis (EDA)
+- Identify sales trends and customer patterns
+- Present insights using visualizations
+
+---
+
+##  Tools Used
 - Python
 - Pandas
 - NumPy
-- Plotly Dash
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
+---
 
+##  Project Structure
+- Dashboard.ipynb → Main analysis & visualizations
+- notebook.ipynb → Data cleaning & exploration
+- retail_sales_dataset.csv → Raw dataset
+- visuals/ → Charts and images used in analysis
 
-##  Key Features
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Interactive dashboard using Dash
-- Revenue analysis by product category
-- Customer demographic insights (gender, age)
-- Monthly sales trend analysis
+---
 
+##  Key Insights
+- Certain product categories generate higher revenue than others
+- Customer demographics (age & gender) influence buying behaviour
+- Sales patterns show variation across time periods
+- Data cleaning improved accuracy of analysis results
 
+---
 
-##  Key Business Insights
-- Certain product categories generate significantly higher revenue
-- Customer purchases vary across age groups
-- Gender distribution shows clear buying patterns
-- Sales fluctuate across different months, indicating seasonal trends
+## 📸 Visual Analysis
 
+### Revenue Analysis
+![Revenue](visuals/revenue.png)
 
+### Gender Distribution
+![Gender](visuals/gender.png)
 
-##  Dashboard Preview
+### Age Distribution
+![Age](visuals/age.png)
+
+### Dashboard Overview
 ![Dashboard](visuals/dashboard.png)
-![Revenue](visuals/Revenue_chart.png)
-![Gender](visuals/Gender_chart.png)
-![Age](visuals/Customer_Age_chart.png)
-
 
 ---
 
 ##  How to Run This Project
+1. Clone this repository:
+```bash
+##  How to Run This Project
 
-1. Clone the repository:
-bash
-git clone https://github.com/tanyachita05/pinkglow-retail-analytics-dashboard.git
+
+git clone https://github.com/tanyachitaka05/pinkglow-retail-dashboard.git
