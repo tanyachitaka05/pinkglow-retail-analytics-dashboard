@@ -58,4 +58,8 @@ The goal of this project is to:
 
 
 ---
+##  How to Run This Project
 
+### 1. Clone the repository
+```bash
+git clone https://github.com/tanyachitaka05/pinkglow-retail-dashboard.git
